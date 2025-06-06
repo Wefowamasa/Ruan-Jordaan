@@ -192,7 +192,7 @@ Building a strong foundation in IT principles, software development, and emergin
   <br>
   
   <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruanjordaan&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wefowamasa&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
