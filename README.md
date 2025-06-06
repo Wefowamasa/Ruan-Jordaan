@@ -1,4 +1,4 @@
-# Hi there, I'm Ruan Jordaan 👋
+ Hi there, I'm **Ruan** **Jordaan** 👋
 
 <div align="center">
   
@@ -27,11 +27,11 @@
 
 ---
 
-## 🚀 About Me
+ 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 **Bachelor of IT Student** at Belgium Campus
+- 🎓 Bachelor of IT Student at Belgium Campus
 - 📍 Based in **Pretoria, South Africa**
 - 💡 Passionate about **technology and problem-solving**
 - 🏆 Committed to **excellence** with academic distinctions
@@ -43,13 +43,13 @@
 
 ---
 
-## 💼 Experience
+ 💼 Experience
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧮 Mathematics Tutor @ Miki Maths
+ 🧮 Mathematics Tutor @ Miki Maths
 **Feb 2025 – Present**
 
 - Teaching primary school learners on weekends
@@ -68,11 +68,11 @@
 
 ---
 
-## 🧠 Featured Projects
+ 🧠 Featured Projects
 
 <div align="center">
 
-### 📚 Math Learning App (C#)
+ 📚 Math Learning App (C#)
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 
@@ -80,7 +80,7 @@
 
 ---
 
-### 🌍 International Hackathon 2025
+ 🌍 International Hackathon 2025
 <img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Hackathon" />
 <img src="https://img.shields.io/badge/Teamwork-4ECDC4?style=for-the-badge&logo=users&logoColor=white" alt="Teamwork" />
 
@@ -90,20 +90,20 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+ 🛠️ Skills & Technologies
 
 <div align="center">
 
-### Programming Languages
+ Programming Languages
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" />
 
-### Tools & Technologies  
+ Tools & Technologies  
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-### Core Strengths
+ Core Strengths
 <img src="https://img.shields.io/badge/Problem_Solving-FF6B6B?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Problem Solving" />
 <img src="https://img.shields.io/badge/Leadership-4ECDC4?style=for-the-badge&logo=users&logoColor=white" alt="Leadership" />
 <img src="https://img.shields.io/badge/Communication-45B7D1?style=for-the-badge&logo=chat&logoColor=white" alt="Communication" />
@@ -113,13 +113,13 @@
 
 ---
 
-## 📚 Education
+ 📚 Education
 
 <table>
 <tr>
 <td width="70%">
 
-### 🎓 Belgium Campus
+🎓 Belgium Campus
 **Bachelor's in Information Technology**  
 *Jan 2025 – Nov 2027*
 
@@ -136,7 +136,7 @@ Building a strong foundation in IT principles, software development, and emergin
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
   
@@ -151,7 +151,7 @@ Building a strong foundation in IT principles, software development, and emergin
 
 ---
 
-## 🎯 Current Focus
+ 🎯 Current Focus
 
 <div align="center">
 
@@ -167,7 +167,7 @@ Building a strong foundation in IT principles, software development, and emergin
 
 ---
 
-## 🌟 Let's Connect!
+ 🌟 Let's Connect!
 
 <div align="center">
   
@@ -186,7 +186,7 @@ Building a strong foundation in IT principles, software development, and emergin
   
   <br><br>
   
-  ### 💭 Personal Quote
+   💭 Personal Quote
   *"Strive not to be a success, but rather to be of value."* – Albert Einstein
   
   <br>
@@ -197,7 +197,7 @@ Building a strong foundation in IT principles, software development, and emergin
 
 <div align="center">
   
-  ### 🎉 Thanks for visiting my profile!
+   🎉 Thanks for visiting my profile!
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
   
