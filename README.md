@@ -50,7 +50,7 @@
 <td width="50%">
 
  🧮 Mathematics Tutor @ Miki Maths
-**Feb 2025 – Present**
+**Feb** **2025** – **Present**
 
 - Teaching primary school learners on weekends
 - Building strong foundation in numeracy
@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 
-*A custom-built desktop application developed in C# to support my tutoring. Simplifies basic arithmetic for primary school students, making math more accessible by combining technology and education.*
+A custom-built desktop application developed in C# to support my tutoring. Simplifies basic arithmetic for primary school students, making math more accessible by combining technology and education.
 
 ---
 
@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Hackathon" />
 <img src="https://img.shields.io/badge/Teamwork-4ECDC4?style=for-the-badge&logo=users&logoColor=white" alt="Teamwork" />
 
-*Participated in a global collaborative coding event focused on innovative tech solutions. Gained hands-on experience in teamwork, rapid prototyping, and real-time problem solving under pressure.*
+Participated in a global collaborative coding event focused on innovative tech solutions. Gained hands-on experience in teamwork, rapid prototyping, and real-time problem solving under pressure.
 
 </div>
 
@@ -120,7 +120,7 @@
 <td width="70%">
 
 🎓 Belgium Campus
-**Bachelor's in Information Technology**  
+**Bachelor's** **in** **Information** **Technology**  
 *Jan 2025 – Nov 2027*
 
 Building a strong foundation in IT principles, software development, and emerging technologies. Focused on practical application and real-world problem solving.
@@ -155,13 +155,13 @@ Building a strong foundation in IT principles, software development, and emergin
 
 <div align="center">
 
-```text
+
 🔭 Currently working on: Educational C# applications
 🌱 Learning: Advanced software development patterns
 👯 Looking to collaborate on: Open source educational tools
 💬 Ask me about: C#, Mathematics tutoring, Problem solving
 ⚡ Fun fact: I combine coding with music for creative inspiration
-```
+
 
 </div>
 
@@ -187,7 +187,7 @@ Building a strong foundation in IT principles, software development, and emergin
   <br><br>
   
    💭 Personal Quote
-  *"Strive not to be a success, but rather to be of value."* – Albert Einstein
+  "Strive not to be a success, but rather to be of value." – Albert Einstein
   
   <br>
   
