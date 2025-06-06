@@ -145,7 +145,7 @@ Building a strong foundation in IT principles, software development, and emergin
   
   <br><br>
   
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanjordaan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wefowamasa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -191,9 +191,6 @@ Building a strong foundation in IT principles, software development, and emergin
   
   <br>
   
-  <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wefowamasa&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-
 </div>
 
 ---
