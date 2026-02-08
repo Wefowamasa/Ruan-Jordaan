@@ -33,10 +33,10 @@
 
 - 🎓 Bachelor of IT Student at Belgium Campus
 - 📍 Based in **Pretoria, South Africa**
-- 💡 Passionate about **technology and problem-solving**
-- 🏆 Committed to **excellence** with academic distinctions
-- 🎯 Goal: Build **real-world tech solutions** that make a positive impact
-- 🎶 Find creativity and balance through **music**
+- 💡 Passionate about technology and problem-solving
+- 🏆 Committed to excellence with academic distinctions
+- 🎯 Goal: Build real-world tech solutions that make a positive impact
+- 🎶 Find creativity and balance through music
 - 📚 Currently building educational tools and tutoring mathematics
 
 <br clear="both">
@@ -50,7 +50,7 @@
 <td width="50%">
 
  🧮 Mathematics Tutor @ Miki Maths
-**Feb** **2025** – **Present**
+Feb 2025 – Present
 
 - Teaching primary school learners on weekends
 - Building strong foundation in numeracy
@@ -120,8 +120,8 @@ Participated in a global collaborative coding event focused on innovative tech s
 <td width="70%">
 
 🎓 Belgium Campus
-**Bachelor's** **in** **Information** **Technology**  
-*Jan 2025 – Nov 2027*
+Bachelor's in Information Technology 
+Jan 2025 – Nov 2027
 
 Building a strong foundation in IT principles, software development, and emerging technologies. Focused on practical application and real-world problem solving.
 
