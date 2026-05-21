@@ -78,7 +78,7 @@ Feb 2025 – Present
 
 A custom-built desktop application developed in C# to support my tutoring. Simplifies basic arithmetic for primary school students, making math more accessible by combining technology and education. I have also started with a web based application that focuses on the grade 9 Caps syllabus.
 
-Bug Tracking Application (HTML. CSS and JavaScriptt)
+Bug Tracking Application (HTML, CSS and JavaScriptt)
 
 Build a custom tech themed web application with a group of passionate IT students, that allows users to note, edit and follow up on bugs in real world software development.
 
