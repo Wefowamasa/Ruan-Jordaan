@@ -84,7 +84,7 @@ Build a custom tech themed web application with a group of passionate IT student
 
 ---
 
- 🌍 International Hackathon 2025
+ 🌍 International Hackathon 2025 and 2026
 <img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Hackathon" />
 <img src="https://img.shields.io/badge/Teamwork-4ECDC4?style=for-the-badge&logo=users&logoColor=white" alt="Teamwork" />
 
