@@ -84,7 +84,7 @@ A custom-built desktop application developed in C# to support my tutoring. Simpl
 <img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Hackathon" />
 <img src="https://img.shields.io/badge/Teamwork-4ECDC4?style=for-the-badge&logo=users&logoColor=white" alt="Teamwork" />
 
-Participated in a global collaborative coding event focused on innovative tech solutions. Gained hands-on experience in teamwork, rapid prototyping, and real-time problem solving under pressure.
+Participated in 2 global collaborative coding events focused on innovative and creative solutions. Gained hands-on experience in teamwork, rapid prototyping, and real-time problem solving under pressure.
 
 </div>
 
