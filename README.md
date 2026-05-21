@@ -76,7 +76,11 @@ Feb 2025 – Present
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 
-A custom-built desktop application developed in C# to support my tutoring. Simplifies basic arithmetic for primary school students, making math more accessible by combining technology and education.
+A custom-built desktop application developed in C# to support my tutoring. Simplifies basic arithmetic for primary school students, making math more accessible by combining technology and education. I have also started with a web based application that focuses on the grade 9 Caps syllabus.
+
+Bug Tracking Application (HTML. CSS and JavaScriptt)
+
+Build a custom tech themed web application with a group of passionate IT students, that allows users to note, edit and follow up on bugs in real world software development.
 
 ---
 
@@ -160,7 +164,7 @@ Building a strong foundation in IT principles, software development, and emergin
 🌱 Learning: Advanced software development patterns
 👯 Looking to collaborate on: Open source educational tools
 💬 Ask me about: C#, Mathematics tutoring, Problem solving
-⚡ Fun fact: I combine coding with music for creative inspiration
+⚡ Fun fact: I enjoy building custom programs to solve everyday problems
 
 
 </div>
