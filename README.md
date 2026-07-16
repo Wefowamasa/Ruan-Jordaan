@@ -50,8 +50,6 @@
 <td width="50%">
 
  🧮 Mathematics Tutor @ Miki Maths
-Feb 2025 – Present
-
 - Teaching primary school learners on weekends
 - Building strong foundation in numeracy
 - Enhanced communication and leadership skills
